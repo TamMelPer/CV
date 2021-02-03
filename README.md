@@ -1,13 +1,30 @@
-## Melissa Pereira 
+<div align="center">
 
-### I am...
-A career changer excited about bringing my skills in organization, communication and problem-solving along with my experience in sales, operations and people management to a new role as a full-stack developer. I want to work with great people, in a role that would both challenge me and allow me to grow, to build useful products that people enjoy.
+# Melissa Pereira
 
-## Projects
+<a href="https://www.linkedin.com/in/melissa-customer-success-manager/">
+<img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
 
-| Name                         | Description       | Tech/tools        |
+<a href="https://melissaatmakers.medium.com/">
+<img src="https://cdn1.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Medium_svg5-512.png" alt="medium" hspace="50" height="42" width="42"></a>
+
+[Projects](#About-My-Projects) | [Skills](#skills) | [Work Experience](#work-experience) | [Education](#education) | [Hobbies and Interests](#hobbies-and-interests) 
+
+</div>
+
+## About Me
+
+After a successful career in sales and management inthe luxury travel industry, I decided it was time for a change. I wanted my next role to be one that would never go stale and where every day would bring new opportunities to better myself and improve on my skills.
+
+Reflecting on my strengths and my motivations, a career in Software Development felt like the most natural path and within 3 weeks of making that decision, I applied and was accepted into Makers Academy. 
+
+My experience at Makers has strengthened my commitment to improvement and learning and I have graduated with more than just skills in writing code, key industry practices like TDD and an agile development process. I have learned how to learn, how to methodically solve problems and how to manage my own well-being. 
+
+## About My Projects
+
+| Project                         | Description       | Technologies        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
+| [Petential](https://github.com/horthbynorthwest/petential) | Makers final project. Petential is a web application that allows you and members of your family to keep track of your pet's daily needs. | Django, ReactJS, Material-UI, [OpenWeather API](https://openweathermap.org/api) |
 | **Something else worked on** | A webapp to do y. | Ruby              |
 
 ## Skills
