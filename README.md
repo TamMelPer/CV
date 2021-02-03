@@ -8,13 +8,13 @@
 <a href="https://melissaatmakers.medium.com/">
 <img src="https://cdn1.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Medium_svg5-512.png" alt="medium" hspace="50" height="42" width="42"></a>
 
-[Projects](#About-My-Projects) | [Skills](#skills) | [Work Experience](#work-experience) | [Education](#education) | [Hobbies and Interests](#hobbies-and-interests) 
+[Projects](#About-My-Projects) | [Skills](#About-My-Skills) | [Work Experience](#work-experience) | [Education](#education) | [Hobbies and Interests](#hobbies-and-interests) 
 
 </div>
 
 ## About Me
 
-After a successful career in sales and management inthe luxury travel industry, I decided it was time for a change. I wanted my next role to be one that would never go stale and where every day would bring new opportunities to better myself and improve on my skills.
+After a successful career in sales and management in the luxury travel industry, I decided it was time for a change. I wanted my next role to be one that would never go stale and where every day would bring new opportunities to better myself and improve on my skills.
 
 Reflecting on my strengths and my motivations, a career in Software Development felt like the most natural path and within 3 weeks of making that decision, I applied and was accepted into Makers Academy. 
 
@@ -24,12 +24,15 @@ My experience at Makers has strengthened my commitment to improvement and learni
 
 | Project                         | Description       | Technologies        |
 | ---------------------------- | ----------------- | ----------------- |
-| [Petential](https://github.com/horthbynorthwest/petential) | Makers final project. Petential is a web application that allows you and members of your family to keep track of your pet's daily needs. | Django, ReactJS, Material-UI, [OpenWeather API](https://openweathermap.org/api) |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| [Petential](https://github.com/horthbynorthwest/petential) | Makers final project. Petential is a web application that allows you and members of your family to keep track of your pet's daily needs. You can keep a log of recent meals, walks and see the current weather forecast where you live. | Django, ReactJS, Material-UI, [OpenWeather API](https://openweathermap.org/api) |
+| [Bragbook](https://github.com/CodeZeus-dev/acebook-SassBook) | A clone of Facebook built using Git Collaboration, Agile processes and XP Values. Users can create an account, upload a profile pictures, make, edit, and delete posts, like and comment on posts, find and add friends and see number of mutual friends.  | Ruby on Rails, Rspec, Capybara, HTML, CSS, Bootstrap, Travis CI, Heroku    |          
+| [Predict 2021](https://github.com/TamMelPer/Predict2021) | A solo project to take and store my friend’s predictions for 2021 and self-learn Ruby on Rails. [Live site here](https://predict2021.herokuapp.com/).  | Ruby on Rails, HTML, CSS, Bootstrap, Heroku  |
+| [Process Reviews](https://github.com/TamMelPer/Reviews) | An independent, third party review of my developer process including a video recording of me working through the test and the detailed reviewer's feedback. | Ruby, Rspec, [Blog](https://blog.makersacademy.com/a-tale-of-two-process-reviews-3a633f28f6bb) |
 
-## Skills
+## About My Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+### Communication:
+In Sales, you need strong listening skills along with written and verbal communication skills to win new clients and retain existing clients. I also polished these skills by writing training manuals which I delivered to my team and the wider company resulting in quick, seamless adoption of new ways of working. At Audley Travel, I conducted weekly 1-1s and quarterly reviews with my direct reports and made monthly presentations to the Head of Sales and to HR, communicating clearly and concisely on performance. 
 
 #### This Skill
 
