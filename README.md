@@ -14,11 +14,13 @@
 
 ## About Me
 
-After a successful career in sales and management in the luxury travel industry, I decided it was time for a change. I wanted my next role to be one that would never go stale and where every day would bring new opportunities to better myself and improve on my skills.
+After a successful career in sales and management in the luxury travel industry, I decided it was time for a change. I wanted my next role to be one that would never go stale, where every day would bring new opportunities to better myself and improve on my skills, and most importantly, where any ceiling is one you put up yourself.
 
-Reflecting on my strengths and my motivations, a career in Software Development felt like the most natural path and within 3 weeks of making that decision, I applied and was accepted into Makers Academy. 
+Reflecting on my strengths and my motivations I felt that a career in Software Development was the right fit and further research into the key skills required to be succesful in the role confirmed that. Within 3 weeks of making the decision to change careers, I applied and was accepted into Makers Academy. 
 
-My experience at Makers has strengthened my commitment to improvement and learning and I have graduated with more than just skills in writing code, key industry practices like TDD and an agile development process. I have learned how to learn, how to methodically solve problems and how to manage my own well-being. 
+My experience at Makers has strengthened my commitment to self-improvement and learning and I have graduated with more than just skills in writing code, key industry practices like TDD and an agile development process. I have also learned how to learn, how to methodically solve problems and how to manage my own well-being. 
+
+I am ready and excited to join an open and collaborative team of software engineers, where I can continue writing code that is readable and maintainable, growing further as a developer.
 
 
 ## About My Projects
@@ -27,7 +29,7 @@ My experience at Makers has strengthened my commitment to improvement and learni
 | ---------------------------- | ----------------- | ----------------- |
 | [Petential](https://github.com/horthbynorthwest/petential) | Makers final project. Petential is a web application that allows you and members of your family to keep track of your pet's daily needs. You can keep a log of recent meals, walks and see the current weather forecast where you live. | Django, ReactJS, Material-UI, [OpenWeather API](https://openweathermap.org/api) |
 | [Bragbook](https://github.com/CodeZeus-dev/acebook-SassBook) | A clone of Facebook built using Git Collaboration, Agile processes and XP Values. Users can create an account, upload a profile pictures, make, edit, and delete posts, like and comment on posts, find and add friends and see number of mutual friends.  | Ruby on Rails, Rspec, Capybara, HTML, CSS, Bootstrap, Travis CI, Heroku    |          
-| [Predict 2021](https://github.com/TamMelPer/Predict2021) | A solo project to take and store my friend’s predictions for 2021 and self-learn Ruby on Rails. [Live site here](https://predict2021.herokuapp.com/).  | Ruby on Rails, HTML, CSS, Bootstrap, Heroku  |
+| [Predict 2021](https://github.com/TamMelPer/Predict2021) | A solo project to take and store my friend’s predictions for 2021 and self-learn Ruby on Rails. [Live site here](https://predict2021.herokuapp.com/). *The views and opinions expressed are those of the authors and do not reflect my personal views*  | Ruby on Rails, HTML, CSS, Bootstrap, Heroku  |
 | [Process Reviews](https://github.com/TamMelPer/Reviews) | An independent, third party review of my developer process including a video recording of me working through the test and the detailed reviewer's feedback. | Ruby, Rspec, [Blog](https://blog.makersacademy.com/a-tale-of-two-process-reviews-3a633f28f6bb) |
 
 ## About My Skills
