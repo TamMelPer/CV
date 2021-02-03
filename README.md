@@ -39,7 +39,7 @@ In Sales, you need strong listening skills along with written and verbal communi
 My ability to quickly spot errors in cost and sale prices resulted in my teams consistently having the lowest write-offs. Proofreading and editing brochures and personalised itineraries has sharpened this skill over the years. When writing code in pairing sessions and group projects I am often quick to spot when a comma has been missed, a method has been spelt incorrectly or an ‘end’ is in the wrong place saving frustration down the line.
 
 ### Flexible and Adaptable: 
-The travel industry is a cyclical business where no two days are the same, and I have regularly had to pivot my priorities and strategies to  handle operational incidents like the bankruptcy of an airline, closing of a hotel, or a change in FCO advice. My flexibility and adaptability, along with my positive attitude to change, has seen me redeployed to support various different departments. Most recently I coordinated the repatriation of clients from India and Sri Lanka as borders started shutting down due to the pandemic and successfully brought all clients back to the UK within 48 hours.
+The travel industry is a cyclical business where no two days are the same, and I have regularly had to pivot my priorities and strategies to  handle operational incidents like the bankruptcy of an airline, closing of a hotel, or a change in FCO advice. My flexibility and adaptability, along with my positive attitude to change, has seen me redeployed to support various different departments. At the start of the pandemic, I coordinated the repatriation of clients from India and Sri Lanka as borders started shutting down due to the pandemic and successfully brought all clients back to the UK within 48 hours.
 
 ## About My Experience
 
@@ -113,4 +113,6 @@ _ESL Teacher_
 
 ## Hobbies and Interests
 
-Any cool stuff that makes you a super part of a software development team
+- Games! I love board games, escape rooms, treasure hunts etc. It brings out the competitive side of me but luckily I have never fallen out with anyone over a game of monopoly.
+- Adventure! I love to travel and experience new things. I have stories about sky diving in New Zealand, walking around the outside edge of the CN Tower, Toronto, paddleboarding on the Thames and attending the Queen's Garden Party at Buckingham Palace! 
+- Crafts! I enjoy being creative and on weekends you can find me working on mini projets like home-made greeting cards, upcycling wine bottles, making Christmas wreaths, painting etc.
