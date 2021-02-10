@@ -2,7 +2,7 @@
 
 # Melissa Pereira
 
-<a href="https://www.linkedin.com/in/melissa-customer-success-manager/">
+<a href="https://www.linkedin.com/in/melissa-in-tech/">
 <img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
 
 <a href="https://melissaatmakers.medium.com/">
@@ -15,8 +15,6 @@
 ## About Me
 
 After a successful career in sales and management in the luxury travel industry, I decided it was time for a change. I wanted my next role to be one that would never go stale, where every day would bring new opportunities to better myself and improve on my skills, and most importantly, where any ceiling is one you put up yourself.
-
-Reflecting on my strengths and my motivations I felt that a career in Software Development was the right fit and further research into the key skills required to be succesful in the role confirmed that. Within 3 weeks of making the decision to change careers, I applied and was accepted into Makers Academy. 
 
 My experience at Makers has strengthened my commitment to self-improvement and learning and I have graduated with more than just skills in writing code, key industry practices like TDD and an agile development process. I have also learned how to learn, how to methodically solve problems and how to manage my own well-being. 
 
